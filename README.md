@@ -1,1 +1,2 @@
-# git_learning
+#How am i learning!
+I am learning web development.
